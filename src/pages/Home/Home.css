@@ -1,0 +1,274 @@
+
+html { overflow-x: hidden; }
+body {
+    min-width: 800px; /* Минимальная  ширина */
+
+
+}
+.logo{
+    height: 45px;
+    margin-top:10px ;
+}
+header{
+    display: flex;
+    font-size: 20px;
+    justify-content: space-between;
+
+}
+a{
+    text-decoration: none;
+    padding: 25px;
+    color: black;
+}
+.icons{
+    height:20px ;
+    margin-top: -10px;
+    display: flex;
+}
+svg{
+    width: 25px;
+    height: 41px;
+    margin-top: -4px;
+}
+.links{
+    margin: 20px;
+}
+img{
+    margin-left: 32px;
+}
+.BuyNow{
+    height: 600px;
+    width: 1900px;
+    background: url(https://flacon-magazine.com/uploads/original/post/header_image/0/0/7/60b50699801a7832183117.jpeg) no-repeat;
+    background-size: cover;
+}
+.buy{
+    width: 100%;
+
+}
+
+.container {
+    position: relative;
+}
+
+/* Bottom right text */
+.text-block {
+
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.gradient-button {
+    text-decoration: none;
+    display: inline-block;
+    color: white;
+    padding: 20px 30px;
+    margin: -30px 220px;
+    border-radius: 10px;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    background-color: black;
+    background-size: 200% auto;
+    box-shadow: 0 0 20px rgba(0, 0, 0, .1);
+    transition: .5s;
+}
+.gradient-button:hover {
+    background-position: right center;
+}
+h4{
+    font-size: 68px;
+    margin-left: 214px;
+
+}
+.trend{
+    width: 1500px;
+    height: 400px;
+    position: absolute;
+    top: 600px;
+    box-shadow: 1px 10px 20px gray;
+    right: 0;
+    background-color: white;
+    display: flex;
+}
+p{
+    font-family: 'Montserrat', sans-serif;
+   font-weight: bold;
+    letter-spacing: 2px;
+    font-size: 25px;
+    margin-top: 39px;
+    margin-left: 45px;
+    margin-bottom: 30px;
+
+}
+.ItemImg{
+    height: 254px;
+    width: 190px;
+    margin-left: 0px;
+}
+.items{
+    width: 400px;
+    height: 253px;
+    margin-right: -8px;
+    display: flex;
+    margin-top: 100px;
+
+}
+.product-text{
+    color: black;
+    font-size: 22px;
+    margin-top: 55px;
+    margin-left: 20px;
+}
+p.price{
+    color: forestgreen;
+}
+span{
+    color: black;
+    margin-top: -7px;
+    display: inline-block;
+}
+
+.middle{
+    margin-left: 220px;
+    margin-top: 510px;
+    margin-bottom: 187px;
+
+}
+img.dior{
+    margin-left: 55px;
+    height: 75px;
+    width: 145px;
+}
+img.hm{
+    margin-left: 55px;
+    height: 75px;
+    width: 145px;
+}
+img.lv{
+    margin-left: 55px;
+    height: 90px;
+    width: 90px;
+}
+img.supreme{
+    margin-left: 55px;
+    height: 63px;
+    width: 200px;
+}
+img.zara{
+    margin-left: 55px;
+    height: 60px;
+    width: 145px;
+}
+img.gucci{
+    margin-left: 55px;
+    height: 60px;
+    width: 175px;
+}
+
+.W{
+    height: 500px;
+    width: 420px;
+    background: url(https://images.urbndata.com/is/image/Anthropologie/4110089450025_066_b?$an-category$&qlt=80&fit=constrain) no-repeat;
+    background-size: cover;
+    margin-bottom: 30px;
+    margin-left: 300px;
+
+}
+.photo{
+    width: 100%;
+
+}
+
+.wom {
+    position: relative;
+}
+.men {
+    position: relative;
+}
+.text-block2{
+    margin-top: 352px;
+}
+
+ .w{
+     font-size: 30px;
+     color: white;
+     margin-left: 20px;
+     text-shadow: 3px 3px 12px rgb(75, 75, 75);
+}
+ .c{
+     font-size: 20px;
+     color: white;
+     margin-left: 20px;
+     text-shadow: 3px 3px 12px rgb(75, 75, 75);
+
+}
+
+.W{
+    height: 500px;
+    width: 420px;
+    background: url(https://images.urbndata.com/is/image/Anthropologie/4110089450025_066_b?$an-category$&qlt=80&fit=constrain) no-repeat;
+    background-size: cover;
+    margin-bottom: 100px;
+    margin-left: 300px;
+
+
+}
+.photo{
+    width: 100%;
+
+}
+
+.wom {
+    position: relative;
+}
+.men {
+    position: relative;
+}
+.text-block2{
+    margin-top: 352px;
+}
+
+
+
+.M{
+    height: 500px;
+    width: 420px;
+    background: url(https://i.pinimg.com/originals/00/0e/25/000e250c361daeea24ca1c2ecba0f484.jpg) no-repeat;
+    background-size: cover;
+    margin-top: -600px;
+    margin-left: 1000px;
+    margin-bottom: 100px;
+
+
+}
+.photo2{
+    width: 100%;
+
+}
+
+
+.text-block3{
+    margin-top: 352px;
+}
+
+.m{
+    font-size: 30px;
+    color: white;
+    margin-left: 20px;
+    text-shadow: 3px 3px 12px rgb(75, 75, 75);
+}
+.v{
+    font-size: 20px;
+    color: white;
+    margin-left: 20px;
+    text-shadow: 3px 3px 12px rgb(75, 75, 75);
+
+}
+footer {
+    background-color: rgb(16, 16, 66);
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+}
